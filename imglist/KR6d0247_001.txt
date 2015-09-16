@@ -1,0 +1,7 @@
+001-0431c00	X 001-0431c	buddhist/X-xuzang/X57/04/X57-0431.png
+001-0432a00	X 001-0432a	buddhist/X-xuzang/X57/04/X57-0432.png
+001-0432b00	X 001-0432b	buddhist/X-xuzang/X57/04/X57-0432.png
+001-0432c00	X 001-0432c	buddhist/X-xuzang/X57/04/X57-0432.png
+001-0433a00	X 001-0433a	buddhist/X-xuzang/X57/04/X57-0433.png
+001-0433b00	X 001-0433b	buddhist/X-xuzang/X57/04/X57-0433.png
+001-0433c00	X 001-0433c	buddhist/X-xuzang/X57/04/X57-0433.png
